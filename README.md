@@ -73,7 +73,7 @@ This project is a simple URL Shortener API that allows users to shorten URLs, re
 
 ## Deployment
 
-- The application is deployed on https://localhost:3000. Please visit the deployed URL to access the API.
+- The application is deployed on https://url-shortener-5zhi.onrender.com Please visit the deployed URL to access the API.
 
 ## Getting Started
 
